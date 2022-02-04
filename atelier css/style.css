@@ -1,0 +1,76 @@
+.header{
+    height: 10%;
+    width: 100%;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+}
+.motif{
+    display: flex;
+}
+.navig{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    font-size: 110%;
+    width: 80%;
+    color: silver;
+    font-weight: bolder;
+}
+.row1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: row;
+    gap: 3%;
+}
+.line1{
+    display: flex;
+    flex-direction: column;
+    gap: 15%;
+}
+.line1-2{
+    color: red;
+    font-weight: bold;
+}
+.line1-4{
+    color: red;
+}
+.row2{
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+    text-align: center;
+}
+.row2-2{
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+}
+.foot{
+    height: 30%;
+    width: 100%;
+}
+.mid{
+    width: 60%;
+    margin-left: 20%;
+}
+.row2{
+    margin-bottom: 10%;
+}
+.row3{
+    text-align: center;
+    margin-left: 30%;
+}
+a:hover{
+    background-color: black;
+}
+.navig1{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    height: 100%;
+}
